@@ -67,6 +67,7 @@ function colorSelector(shade, hue) {
       default:
         return red;
         break;
+        
     }
   }
   else {
